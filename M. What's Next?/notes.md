@@ -1,0 +1,15 @@
+# Whats Next?
+-   Prototypes
+-   Prototypal Inheritance
+-   Asyncronous Programming
+-   Async-Await
+-   Promises
+-   Error Handling
+-   Server-side JS
+-   Node.js
+-   NPM
+-   WebSockets
+-   APIs
+-   Frameworks
+-   State Management
+-   Data Bases
