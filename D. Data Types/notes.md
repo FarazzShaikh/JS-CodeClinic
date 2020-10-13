@@ -69,3 +69,15 @@ console.log(a instanceof Object)              // true
 const a = []
 console.log(a instanceof Object)              // true
 ```
+
+## Misc
+### NaN
+```js
+const nan = Number('1')  
+console.log(nan)                                // NaN
+```
+
+### null
+```js
+const nan = null
+```

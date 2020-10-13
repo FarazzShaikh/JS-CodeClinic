@@ -11,27 +11,32 @@ function name(param) {
 ### Alt Initilization
 ```js
 const name = function (param) {
-    return param            // Alt Function
+    return param                // Alt Function
 }
 ```
 
 ### Arrow Fucntion
 ```js
 const name = (param) => {
-    return param            // Arrow Function
+    return param                // Arrow Function
 }
 ```
 
 ### Arrow Fucntion, One Param
 ```js
 const name = param => {
-    return param            // Arrow Function One Param
+    return param                // Arrow Function One Param
 }
 ```
 
 ### Arrow Fucntion, One Param, One Expression
 ```js
-const name = param => param // Arrow Fucntion, One Param, One Expression
+const name = param => param     // Arrow Fucntion, One Param, One Expression
+```
+
+### Arrow Fucntion, No Param, No Expression
+```js
+const name = () => {}           // Arrow Fucntion, NO Param, NO Expression
 ```
 
 ## Parameters
@@ -60,7 +65,7 @@ function b(param) {
 }
 
 a(b)                                // Returns 4
-a((a) => a**2)                      // Returns 4
+a((param) => param**2)              // Returns 4
 ```
 
 ## Return Types
