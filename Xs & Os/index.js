@@ -1,3 +1,4 @@
+
 // Array of cell representing every cell in the board
 const cells = [         // Indexed:
     '', '', '',         //  0   1   2

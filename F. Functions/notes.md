@@ -61,7 +61,7 @@ function a(func) {
 }
 
 function b(param) {
-    return b**2
+    return param**2
 }
 
 a(b)                                // Returns 4

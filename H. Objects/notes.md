@@ -33,6 +33,18 @@ const object = {
 }
 ```
 
+### Accessing Objects
+```js
+const object = {
+    key1: 1,
+    key2: 2
+}
+
+console.log(object.key1)        // 1
+
+console.log(object[key2])       // 2
+```
+
 ## Looping over Object
 ### For-in
 ```js
