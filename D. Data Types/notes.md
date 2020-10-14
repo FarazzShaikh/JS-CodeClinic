@@ -12,7 +12,7 @@ const number = 10e4                 // Scientific is a number
 ```js
 const string = '1'                  // Use Single Quotes
 const string = "1"                  // Use Double Quotes
-const string = `1`                  // Use Back-Ticks
+const string = `${1 + 2}a`                  // Use Back-Ticks
 ```
 
 ### Boolean
