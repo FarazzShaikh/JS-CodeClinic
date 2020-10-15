@@ -1,5 +1,5 @@
 # Modules
-## Using Modules
+## Using Modules.
 ```html
 ...
 <script src="..." type="module">
